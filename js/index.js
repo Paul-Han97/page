@@ -1,5 +1,5 @@
 const xhr = new XMLHttpRequest();
-const url = '/md/index.md';
+const url = './md/index.md';
 
 xhr.open("GET", url);
 
